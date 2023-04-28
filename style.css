@@ -209,7 +209,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/pexels-fauxels-3184465.jpg);
+	background-image: url(./pexels-fauxels-3184465.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -595,6 +595,7 @@ p {
 	#services .service-bottom .service-item {
 		flex-basis: 45%;
 		margin: 2.5%;
+		height: 500px;
 	}
 	/* End Services Section */
 
@@ -705,7 +706,7 @@ p {
 	/* End header */
 
 	#services .service-bottom .service-item {
-		flex-basis: 22%;
+		flex-basis: 35%;
 		margin: 1.5%;
 	}
 }
